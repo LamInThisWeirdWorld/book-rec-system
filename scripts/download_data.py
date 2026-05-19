@@ -1,3 +1,5 @@
+# Automaltically download the dataset and place the needed file into your project's data folder
+
 import kagglehub
 import shutil
 import os
